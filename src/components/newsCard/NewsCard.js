@@ -61,7 +61,7 @@ const imgStyle={width:"150px" , height:"150px" ,objectFit:'cover', borderRadius:
                   <p class="card-text">{description}</p>
                   <p class="card-text">
                     <small class="text-muted">
-                      Published At: {publishedAt}
+                      Published: {publishedAt}
                     </small>
                   </p>
                 </div>
